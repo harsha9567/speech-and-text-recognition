@@ -1,1 +1,0 @@
-# speech-and-text-recognition
